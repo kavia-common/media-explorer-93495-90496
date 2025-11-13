@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/media-explorer-93495-90496/recent_movies_frontend"
+}
